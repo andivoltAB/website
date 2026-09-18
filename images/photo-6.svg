@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Panel of fabricated circuit boards">
+  <rect width="800" height="600" fill="#071f18"/>
+  <rect x="30" y="30" width="740" height="540" rx="10" fill="#0c3527" stroke="#1d7a5c" stroke-width="4"/>
+  <g fill="#0e4433" stroke="#2c8f6d" stroke-width="3">
+    <rect x="80" y="80" width="180" height="140" rx="8"/>
+    <rect x="310" y="80" width="180" height="140" rx="8"/>
+    <rect x="540" y="80" width="180" height="140" rx="8"/>
+    <rect x="80" y="250" width="180" height="140" rx="8"/>
+    <rect x="310" y="250" width="180" height="140" rx="8"/>
+    <rect x="540" y="250" width="180" height="140" rx="8"/>
+    <rect x="80" y="420" width="180" height="140" rx="8"/>
+    <rect x="310" y="420" width="180" height="140" rx="8"/>
+    <rect x="540" y="420" width="180" height="140" rx="8"/>
+  </g>
+  <g stroke="#d6b24a" stroke-width="3" fill="none" opacity="0.9">
+    <path d="M100 130 H160 L190 160 H240"/><path d="M330 130 H390 L420 160 H470"/><path d="M560 130 H620 L650 160 H700"/>
+    <path d="M100 300 H160 L190 330 H240"/><path d="M330 300 H390 L420 330 H470"/><path d="M560 300 H620 L650 330 H700"/>
+    <path d="M100 470 H160 L190 500 H240"/><path d="M330 470 H390 L420 500 H470"/><path d="M560 470 H620 L650 500 H700"/>
+  </g>
+  <g fill="#1c5b45">
+    <circle cx="55" cy="55" r="10"/><circle cx="745" cy="55" r="10"/>
+    <circle cx="55" cy="545" r="10"/><circle cx="745" cy="545" r="10"/>
+  </g>
+</svg>

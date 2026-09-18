@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Return loss measurement trace on a network analyser">
+  <rect width="800" height="600" fill="#0b1418"/>
+  <rect x="70" y="70" width="660" height="440" fill="#0e1c22" stroke="#22434f" stroke-width="2"/>
+  <g stroke="#1b3540" stroke-width="1.5">
+    <path d="M70 158 H730 M70 246 H730 M70 334 H730 M70 422 H730"/>
+    <path d="M180 70 V510 M290 70 V510 M400 70 V510 M510 70 V510 M620 70 V510"/>
+  </g>
+  <path d="M70 130 C160 140 220 150 280 170 C330 190 355 240 375 330 C388 400 396 440 400 450 C406 438 414 396 428 330 C450 240 476 190 528 168 C600 140 670 130 730 126"
+        fill="none" stroke="#38d39f" stroke-width="4"/>
+  <path d="M70 246 H730" stroke="#e0574a" stroke-width="2" stroke-dasharray="8 8"/>
+  <circle cx="400" cy="450" r="7" fill="#ffd166"/>
+  <g fill="#7f96a2" font-family="monospace" font-size="18">
+    <text x="78" y="60">S11 (dB)</text>
+    <text x="620" y="545">frequency</text>
+    <text x="416" y="470">-24 dB</text>
+    <text x="640" y="240">-10 dB</text>
+  </g>
+</svg>

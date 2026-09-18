@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Antenna radiation pattern plot">
+  <rect width="800" height="600" fill="#0b1418"/>
+  <g stroke="#22434f" stroke-width="2" fill="none">
+    <circle cx="400" cy="300" r="70"/><circle cx="400" cy="300" r="140"/>
+    <circle cx="400" cy="300" r="210"/><circle cx="400" cy="300" r="260"/>
+    <path d="M140 300 H660 M400 40 V560"/>
+    <path d="M216 116 L584 484 M584 116 L216 484"/>
+  </g>
+  <path d="M400 60 C560 90 620 200 600 300 C580 400 500 470 400 480 C300 470 220 400 200 300 C180 200 240 90 400 60 Z"
+        fill="#38d39f" opacity="0.22" stroke="#38d39f" stroke-width="3"/>
+  <path d="M400 150 C480 170 510 240 500 300 C490 360 450 400 400 405 C350 400 310 360 300 300 C290 240 320 170 400 150 Z"
+        fill="#4094ff" opacity="0.2" stroke="#4094ff" stroke-width="3"/>
+  <g fill="#7f96a2" font-family="monospace" font-size="18">
+    <text x="330" y="32">0 dBi</text>
+    <text x="620" y="560">E-plane / H-plane</text>
+  </g>
+</svg>
